@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qmlwin.qml</file>
+    </qresource>
+</RCC>
